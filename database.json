@@ -1,0 +1,36 @@
+{
+    "savdolar": [
+        {
+            "mahsulot": "Osh",
+            "soni": 2,
+            "narxi": 20000.0,
+            "sana": "2024-12-12"
+        }
+    ],
+    "ombor": {
+        "Yog": 45,
+        "Moxito": 23,
+        "Un": 2,
+        "Choy": 1,
+        "Limon": 5,
+        "Shakar": 1,
+        "Vafli": 2
+    },
+    "xarajatlar": [
+        {
+            "mahsulot": "Non",
+            "narxi": 25000.0,
+            "foydalanuvchi": "aliboevabbos",
+            "sana": "2024-12-12"
+        }
+    ],
+    "tushumlar": [
+        {},
+        {
+            "karta": 0,
+            "hisob": 0,
+            "naqd": 0,
+            "sana": "2025-01-06"
+        }
+    ]
+}
